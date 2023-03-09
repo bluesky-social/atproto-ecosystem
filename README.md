@@ -42,7 +42,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
   
 ### iOS Clients
 
-- Bluesky (developed by bluesky-social)
+- Bluesky (developed by Bluesky PBLLC)
   - site: [bsky.app](bsky.app)
 
 ### CLI Clients
