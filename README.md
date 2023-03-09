@@ -10,7 +10,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 
 ### Typescript
 
-- [atproto](https://github.com/bluesky-social/atproto): this is the leading implementation 
+- [atproto](https://github.com/bluesky-social/atproto): this is the leading protocol implementation 
 
 ### Go
 - [indigo](https://github.com/bluesky-social/indigo): not stable 
