@@ -1,4 +1,4 @@
-# atproto-ecosystem
+# AT Protocol Ecosystem
 
 List of projects and implementations in the AT protocol ecosystem. 
 
