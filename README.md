@@ -11,6 +11,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - [atproto](https://github.com/bluesky-social/atproto) (Typescript): this is the leading protocol implementation 
 - [indigo](https://github.com/bluesky-social/indigo) (Go): not stable 
 - [adenosine](https://gitlab.com/bnewbold/adenosine) (Rust): not stable
+- [lexrpc](https://github.com/snarfed/lexrpc) (Python): not stable
 
 
 ## Clients
