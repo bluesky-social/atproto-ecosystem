@@ -15,6 +15,9 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 ### Go
 - [indigo](https://github.com/bluesky-social/indigo): not stable 
 
+### Rust
+- [adenosine](https://gitlab.com/bnewbold/adenosine): not stable
+
 
 ## Clients
 
@@ -45,3 +48,8 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 
 - Bluesky
   - site: [bsky.app](bsky.app)
+
+### CLI Clients
+
+- [adenosine-cli](https://gitlab.com/bnewbold/adenosine/-/blob/main/adenosine-cli/README.md)
+- [gosky](https://github.com/bluesky-social/indigo/tree/main/cmd/gosky)
