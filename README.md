@@ -1,6 +1,6 @@
 # AT Protocol Ecosystem
 
-List of projects and implementations in the AT protocol ecosystem. 
+List of projects and implementations in the AT protocol ecosystem. Many are WIP, as the protocol is still maturing. 
 
 ## Protocol Documentation 
 
