@@ -6,11 +6,12 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 
 - [atproto.com](https://atproto.com/docs)
 
-## Protocol Implementations 
+## Protocol Implementations (Libraries)
 
 - [atproto](https://github.com/bluesky-social/atproto) (Typescript): this is the leading protocol implementation 
 - [indigo](https://github.com/bluesky-social/indigo) (Go): not stable 
 - [adenosine](https://gitlab.com/bnewbold/adenosine) (Rust): not stable
+- [lexrpc](https://github.com/snarfed/lexrpc) (Python): not stable
 
 
 ## Clients
@@ -47,10 +48,10 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 
 ### CLI Clients
 
-- [adenosine-cli](https://gitlab.com/bnewbold/adenosine/-/blob/main/adenosine-cli/README.md)
-- [gosky](https://github.com/bluesky-social/indigo/tree/main/cmd/gosky)
-- [bsky](https://github.com/mattn/bsky)
-- [atr](https://github.com/syui/atr)
+- [adenosine-cli](https://gitlab.com/bnewbold/adenosine/-/blob/main/adenosine-cli/README.md) (Rust)
+- [gosky](https://github.com/bluesky-social/indigo/tree/main/cmd/gosky) (Golang)
+- [bsky](https://github.com/mattn/bsky) (Golang)
+- [atr](https://github.com/syui/atr) (Rust)
 
 ## Disclaimer
 
