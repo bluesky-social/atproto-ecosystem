@@ -2,13 +2,20 @@
 
 List of projects and implementations in the AT protocol ecosystem. Many are WIP, as the protocol is still maturing. 
 
+## Disclaimer
+
+*This list of third-party developer clients is provided for informational purposes only. These clients are not affiliated with the Bluesky PBLLC company, unless otherwise indicated, and we do not endorse or guarantee their performance or security. Users should be aware that logging in to their accounts through these third-party clients carries inherent risks, including the possibility of account compromise or data loss. It is important to only use third-party clients that are trusted and reputable. We strongly advise users to exercise caution and use these third-party clients at their own risk. Only log in to your account through a third-party client if you trust the developer and are confident in their ability to safeguard your account information.*
+
+*We are not responsible for any damage, loss, or unauthorized access to your account that may result from using these third-party clients. By using any of these clients, you acknowledge and accept these risks and limitations.*
+
+
 ## Protocol Documentation 
 
 - [atproto.com](https://atproto.com/docs)
 
 ## Protocol Implementations (Libraries)
 
-- [atproto](https://github.com/bluesky-social/atproto) (Typescript): this is the leading protocol implementation 
+- [atproto](https://github.com/bluesky-social/atproto) (Typescript): this is the leading protocol implementation, developed by Bluesky PBLLC
 - [indigo](https://github.com/bluesky-social/indigo) (Go): not stable 
 - [adenosine](https://gitlab.com/bnewbold/adenosine) (Rust): not stable
 - [lexrpc](https://github.com/snarfed/lexrpc) (Python): not stable
@@ -51,15 +58,10 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 ### CLI Clients
 
 - [adenosine-cli](https://gitlab.com/bnewbold/adenosine/-/blob/main/adenosine-cli/README.md) (Rust)
-- [gosky](https://github.com/bluesky-social/indigo/tree/main/cmd/gosky) (Golang)
+- [gosky](https://github.com/bluesky-social/indigo/tree/main/cmd/gosky) (Golang)(developed by Bluesky PBLLC)
 - [bsky](https://github.com/mattn/bsky) (Golang)
 - [atr](https://github.com/syui/atr) (Rust)
 
-## Disclaimer
-
-*The list of third-party developer clients is provided for informational purposes only. These clients are not affiliated with the Bluesky PBLLC company, unless otherwise indicated, and we do not endorse or guarantee their performance or security. Users should be aware that logging in to their accounts through these third-party clients carries inherent risks, including the possibility of account compromise or data loss. It is important to only use third-party clients that are trusted and reputable. We strongly advise users to exercise caution and use these third-party clients at their own risk. Only log in to your account through a third-party client if you trust the developer and are confident in their ability to safeguard your account information.*
-
-*We are not responsible for any damage, loss, or unauthorized access to your account that may result from using these third-party clients. By using any of these clients, you acknowledge and accept these risks and limitations.*
 
 
 
