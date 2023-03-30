@@ -1,6 +1,6 @@
 # AT Protocol Ecosystem
 
-List of projects and implementations in the AT protocol ecosystem. Many are WIP, as the protocol is still maturing. 
+List of projects and implementations in the AT protocol ecosystem. Many are WIP, as the protocol is still maturing.
 
 ## Disclaimer
 
@@ -8,15 +8,14 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 
 *We are not responsible for any damage, loss, or unauthorized access to your account that may result from using these third-party clients. By using any of these clients, you acknowledge and accept these risks and limitations.*
 
-
-## Protocol Documentation 
+## Protocol Documentation
 
 - [atproto.com](https://atproto.com/docs)
 
 ## Protocol Implementations (Libraries)
 
 - [atproto](https://github.com/bluesky-social/atproto) (Typescript): this is the leading protocol implementation, developed by Bluesky PBLLC
-- [indigo](https://github.com/bluesky-social/indigo) (Go): not stable 
+- [indigo](https://github.com/bluesky-social/indigo) (Go): not stable
 - [adenosine](https://gitlab.com/bnewbold/adenosine) (Rust): not stable
 - [lexrpc](https://github.com/snarfed/lexrpc) (Python): not stable
 - [atprototools](https://github.com/ianklatzco/atprototools) (Python): new, not stable
@@ -28,7 +27,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 
 - Bluesky:
   - site: [https://staging.bsky.app/](https://staging.bsky.app/)
-- Flat: 
+- Flat:
   - app: [flat-bs.vercel.app](https://flat-bs.vercel.app)
   - repo: [github.com/sabigara/flat](https://github.com/sabigara/flat)
 - Bsky
@@ -56,7 +55,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - Seiun
   - app: [Google Play Store](https://play.google.com/store/apps/details?id=io.github.akiomik.seiun)
   - repo: [https://github.com/akiomik/seiun](https://github.com/akiomik/seiun)
-  
+
 ### iOS Clients
 
 - Bluesky (developed by Bluesky PBLLC)
