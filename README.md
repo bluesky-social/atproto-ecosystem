@@ -1,6 +1,6 @@
 # AT Protocol Ecosystem
 
-List of projects and implementations in the AT protocol ecosystem. Many are WIP, as the protocol is still maturing. 
+List of projects and implementations in the AT protocol ecosystem. Many are WIP, as the protocol is still maturing.
 
 ## Disclaimer
 
@@ -8,18 +8,16 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 
 *We are not responsible for any damage, loss, or unauthorized access to your account that may result from using these third-party clients. By using any of these clients, you acknowledge and accept these risks and limitations.*
 
-
-## Protocol Documentation 
+## Protocol Documentation
 
 - [atproto.com](https://atproto.com/docs)
 
 ## Protocol Implementations (Libraries)
 
 - [atproto](https://github.com/bluesky-social/atproto) (Typescript): this is the leading protocol implementation, developed by Bluesky PBLLC
-- [indigo](https://github.com/bluesky-social/indigo) (Go): not stable 
+- [indigo](https://github.com/bluesky-social/indigo) (Go): not stable
 - [adenosine](https://gitlab.com/bnewbold/adenosine) (Rust): not stable
 - [lexrpc](https://github.com/snarfed/lexrpc) (Python): not stable
-
 
 ## Clients
 
@@ -27,7 +25,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 
 - Bluesky:
   - site: [https://staging.bsky.app/](https://staging.bsky.app/)
-- Flat: 
+- Flat:
   - app: [flat-bs.vercel.app](https://flat-bs.vercel.app)
   - repo: [github.com/sabigara/flat](github.com/sabigara/flat)
 - Bsky
@@ -44,12 +42,12 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
   - repo: [https://github.com/akanoren/redsky](https://github.com/akanoren/redsky)
 - Tokimekibluesky
   - site: [https://tokimekibluesky.vercel.app](https://tokimekibluesky.vercel.app)
-  
+
 ### Android Clients
 
 - Seiun
   - repo: [https://github.com/akiomik/seiun](https://github.com/akiomik/seiun)
-  
+
 ### iOS Clients
 
 - Bluesky (developed by Bluesky PBLLC)
@@ -61,7 +59,3 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - [gosky](https://github.com/bluesky-social/indigo/tree/main/cmd/gosky) (Golang)(developed by Bluesky PBLLC)
 - [bsky](https://github.com/mattn/bsky) (Golang)
 - [atr](https://github.com/syui/atr) (Rust)
-
-
-
-
