@@ -16,31 +16,31 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 
 ### TypeScript
 
-- [atproto](https://github.com/bluesky-social/atproto) (TypeScript): this is the leading protocol implementation, developed by Bluesky PBLLC
+- [atproto](https://github.com/bluesky-social/atproto): this is the leading protocol implementation, developed by Bluesky PBLLC
 
 ### Go
 
-- [indigo](https://github.com/bluesky-social/indigo) (Go): not stable
+- [indigo](https://github.com/bluesky-social/indigo): not stable
 
 ### Rust
 
-- [adenosine](https://gitlab.com/bnewbold/adenosine) (Rust): not stable
+- [adenosine](https://gitlab.com/bnewbold/adenosine): not stable
 
 ### Python
 
-- [lexrpc](https://github.com/snarfed/lexrpc) (Python): not stable
+- [lexrpc](https://github.com/snarfed/lexrpc): not stable
 
 ### Dart / Flutter
 
-- [nsid](https://github.com/myConsciousness/atproto.dart/tree/main/packages/nsid) (Dart): this is the Dart implementation of NSID, which is standard in the AT Protocol.
+- [nsid](https://github.com/myConsciousness/atproto.dart/tree/main/packages/nsid): this is the Dart implementation of NSID, which is standard in the AT Protocol.
   - site: [pub.dev](https://pub.dev/packages/at_uri)
-- [at_uri](https://github.com/myConsciousness/atproto.dart/tree/main/packages/at_uri) (Dart): this is the Dart implementation of AT Uri, which is standard in the AT Protocol.
+- [at_uri](https://github.com/myConsciousness/atproto.dart/tree/main/packages/at_uri): this is the Dart implementation of AT Uri, which is standard in the AT Protocol.
   - site: [pub.dev](https://pub.dev/packages/at_uri)
-- [xrpc](https://github.com/myConsciousness/atproto.dart/tree/main/packages/xrpc) (Dart): this is the simple XRPC client for Dart/Flutter.
+- [xrpc](https://github.com/myConsciousness/atproto.dart/tree/main/packages/xrpc): this is the simple XRPC client for Dart/Flutter.
   - site: [pub.dev](https://pub.dev/packages/xrpc)
-- [atproto](https://github.com/myConsciousness/atproto.dart/tree/main/packages/atproto) (Dart): this is the wrapper client for AT Protocol (com.atproto.*).
+- [atproto](https://github.com/myConsciousness/atproto.dart/tree/main/packages/atproto): this is the wrapper client for AT Protocol (com.atproto.*).
   - site: [pub.dev](https://pub.dev/packages/atproto)
-- [bluesky](https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky) (Dart): this is the wrapper client for Bluesky Social (app.bsky.*).
+- [bluesky](https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky): this is the wrapper client for Bluesky Social (app.bsky.*).
   - site: [pub.dev](https://pub.dev/packages/bluesky)
 
 ## Clients
