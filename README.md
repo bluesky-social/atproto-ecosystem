@@ -14,9 +14,9 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 
 ## Protocol Implementations (Libraries)
 
-### Typescript
+### TypeScript
 
-- [atproto](https://github.com/bluesky-social/atproto) (Typescript): this is the leading protocol implementation, developed by Bluesky PBLLC
+- [atproto](https://github.com/bluesky-social/atproto) (TypeScript): this is the leading protocol implementation, developed by Bluesky PBLLC
 
 ### Go
 
