@@ -30,6 +30,19 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 
 - [lexrpc](https://github.com/snarfed/lexrpc) (Python): not stable
 
+### Dart / Flutter
+
+- [nsid](https://github.com/myConsciousness/atproto.dart/tree/main/packages/nsid) (Dart): this is the Dart implementation of NSID, which is standard in the AT Protocol.
+  - site: [pub.dev](https://pub.dev/packages/at_uri)
+- [at_uri](https://github.com/myConsciousness/atproto.dart/tree/main/packages/at_uri) (Dart): this is the Dart implementation of AT Uri, which is standard in the AT Protocol.
+  - site: [pub.dev](https://pub.dev/packages/at_uri)
+- [xrpc](https://github.com/myConsciousness/atproto.dart/tree/main/packages/xrpc) (Dart): this is the simple XRPC client for Dart/Flutter.
+  - site: [pub.dev](https://pub.dev/packages/xrpc)
+- [atproto](https://github.com/myConsciousness/atproto.dart/tree/main/packages/atproto) (Dart): this is the wrapper client for AT Protocol (com.atproto.*).
+  - site: [pub.dev](https://pub.dev/packages/atproto)
+- [bluesky](https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky) (Dart): this is the wrapper client for Bluesky Social (app.bsky.*).
+  - site: [pub.dev](https://pub.dev/packages/bluesky)
+
 ## Clients
 
 ### Web Clients
@@ -70,6 +83,5 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - [gosky](https://github.com/bluesky-social/indigo/tree/main/cmd/gosky) (Golang)(developed by Bluesky PBLLC)
 - [bsky](https://github.com/mattn/bsky) (Golang)
 - [atr](https://github.com/syui/atr) (Rust)
-- bluesky_cli (Dart)
-  - repo: [bluesky_cli](https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky_cli)
+- [bluesky_cli](https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky_cli) (Dart)
   - site: [pub.dev](https://pub.dev/packages/bluesky_cli)
