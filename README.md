@@ -29,10 +29,10 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
   - site: [https://staging.bsky.app/](https://staging.bsky.app/)
 - Flat: 
   - app: [flat-bs.vercel.app](https://flat-bs.vercel.app)
-  - repo: [github.com/sabigara/flat](github.com/sabigara/flat)
+  - repo: [github.com/sabigara/flat](https://github.com/sabigara/flat)
 - Bsky
   - app: [bsky.syui.cf](https://bsky.syui.cf)
-  - repo: [github.com/syui/bsky-web](github.com/syui/bsky-web)
+  - repo: [github.com/syui/bsky-web](https://github.com/syui/bsky-web)
 - Bsky Wrapper (view-only)
   - site: [blue.amazingca.dev](https://blue.amazingca.dev)
   - repo: [https://github.com/Amazingca/BSKY-Wrapper](https://github.com/Amazingca/BSKY-Wrapper)
