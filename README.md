@@ -46,7 +46,11 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - TOKIMEKI Bluesky
   - site: [https://tokimekibluesky.vercel.app](https://tokimekibluesky.vercel.app)
   - repo: [https://github.com/spuithori/tokimekibluesky](https://github.com/spuithori/tokimekibluesky)
-  
+- The Blue
+  - site: [https://the-blue.shino3.net](https://the-blue.shino3.net)
+  - repo: [https://github.com/ShinoharaTa/AozoraWebClient](https://github.com/ShinoharaTa/AozoraWebClient)
+
+
 ### Android Clients
 
 - Seiun
