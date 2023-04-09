@@ -19,6 +19,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - [indigo](https://github.com/bluesky-social/indigo) (Go): not stable 
 - [adenosine](https://gitlab.com/bnewbold/adenosine) (Rust): not stable
 - [lexrpc](https://github.com/snarfed/lexrpc) (Python): not stable
+- [atprototools](https://github.com/ianklatzco/atprototools) (Python): new, not stable
 
 
 ## Clients
@@ -29,10 +30,10 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
   - site: [https://staging.bsky.app/](https://staging.bsky.app/)
 - Flat: 
   - app: [flat-bs.vercel.app](https://flat-bs.vercel.app)
-  - repo: [github.com/sabigara/flat](github.com/sabigara/flat)
+  - repo: [github.com/sabigara/flat](https://github.com/sabigara/flat)
 - Bsky
   - app: [bsky.syui.cf](https://bsky.syui.cf)
-  - repo: [github.com/syui/bsky-web](github.com/syui/bsky-web)
+  - repo: [github.com/syui/bsky-web](https://github.com/syui/bsky-web)
 - Bsky Wrapper (view-only)
   - site: [blue.amazingca.dev](https://blue.amazingca.dev)
   - repo: [https://github.com/Amazingca/BSKY-Wrapper](https://github.com/Amazingca/BSKY-Wrapper)
@@ -42,15 +43,18 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - Redsky
   - site: [https://redsky.pages.dev/](https://redsky.pages.dev/)
   - repo: [https://github.com/akanoren/redsky](https://github.com/akanoren/redsky)
-- Tokimekibluesky
+- TOKIMEKI Bluesky
   - site: [https://tokimekibluesky.vercel.app](https://tokimekibluesky.vercel.app)
+  - repo: [https://github.com/spuithori/tokimekibluesky](https://github.com/spuithori/tokimekibluesky)
 - The Blue
   - site: [https://the-blue.shino3.net](https://the-blue.shino3.net)
   - repo: [https://github.com/ShinoharaTa/AozoraWebClient](https://github.com/ShinoharaTa/AozoraWebClient)
 
+
 ### Android Clients
 
 - Seiun
+  - app: [Google Play Store](https://play.google.com/store/apps/details?id=io.github.akiomik.seiun)
   - repo: [https://github.com/akiomik/seiun](https://github.com/akiomik/seiun)
   
 ### iOS Clients
@@ -65,6 +69,6 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - [bsky](https://github.com/mattn/bsky) (Golang)
 - [atr](https://github.com/syui/atr) (Rust)
 
+### Other Tools
 
-
-
+- [twitter-to-bsky](https://github.com/ianklatzco/twitter-to-bsky) Import a Twitter archive into Bluesky. (may spam timeline!)
