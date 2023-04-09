@@ -19,6 +19,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - [indigo](https://github.com/bluesky-social/indigo) (Go): not stable 
 - [adenosine](https://gitlab.com/bnewbold/adenosine) (Rust): not stable
 - [lexrpc](https://github.com/snarfed/lexrpc) (Python): not stable
+- [atprototools](https://github.com/ianklatzco/atprototools) (Python): new, not stable
 
 
 ## Clients
@@ -63,11 +64,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - [gosky](https://github.com/bluesky-social/indigo/tree/main/cmd/gosky) (Golang)(developed by Bluesky PBLLC)
 - [bsky](https://github.com/mattn/bsky) (Golang)
 - [atr](https://github.com/syui/atr) (Rust)
-- [atprototools](https://github.com/ianklatzco/atprototools) (Python)
 
-### Tools/Utilities
+### Other Tools
 
-- [twitter-to-bsky](https://github.com/ianklatzco/twitter-to-bsky) Import a Twitter archive into Bluesky.
-
-
-
+- [twitter-to-bsky](https://github.com/ianklatzco/twitter-to-bsky) Import a Twitter archive into Bluesky. (may spam timeline!)
