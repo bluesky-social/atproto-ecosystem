@@ -55,6 +55,9 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - Seiun
   - app: [Google Play Store](https://play.google.com/store/apps/details?id=io.github.akiomik.seiun)
   - repo: [https://github.com/akiomik/seiun](https://github.com/akiomik/seiun)
+- Ozone
+  - app: 🚧 TBD
+  - repo: [https://github.com/christiandeange/ozone](https://github.com/christiandeange/ozone)
 
 ### iOS Clients
 
