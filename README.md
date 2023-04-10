@@ -25,7 +25,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 
 ### Web Clients
 
-- Bluesky:
+- Bluesky (developed by Bluesky PBLLC):
   - site: [https://staging.bsky.app/](https://staging.bsky.app/)
 - Flat:
   - app: [flat-bs.vercel.app](https://flat-bs.vercel.app)
@@ -60,7 +60,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 
 - Bluesky (developed by Bluesky PBLLC)
   - app: [App Store](https://apps.apple.com/us/app/bluesky-social/id6444370199)
-  - site: [bsky.app](bsky.app)
+  - site: [bsky.app](https://bsky.app)
 
 ### CLI Clients
 
