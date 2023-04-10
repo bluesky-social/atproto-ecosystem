@@ -33,7 +33,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - Bsky
   - app: [bsky.syui.cf](https://bsky.syui.cf)
   - repo: [github.com/syui/bsky-web](https://github.com/syui/bsky-web)
-- Bsky Wrapper (view-only)
+- Bsky Wrapper
   - site: [blue.amazingca.dev](https://blue.amazingca.dev)
   - repo: [https://github.com/Amazingca/BSKY-Wrapper](https://github.com/Amazingca/BSKY-Wrapper)
 - Skylight
@@ -59,6 +59,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 ### iOS Clients
 
 - Bluesky (developed by Bluesky PBLLC)
+  - app: [App Store](https://apps.apple.com/us/app/bluesky-social/id6444370199)
   - site: [bsky.app](bsky.app)
 
 ### CLI Clients
@@ -74,3 +75,6 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 ### Other Tools
 
 - [twitter-to-bsky](https://github.com/ianklatzco/twitter-to-bsky) Import a Twitter archive into Bluesky. (may spam timeline!)
+- Bsky Tooling – Cache and follow tons of repos and users.
+  - site: [blue.amazingca.dev/tools](https://blue.amazingca.dev/tools)
+  - repo: [https://github.com/Amazingca/BSKY-Wrapper/blob/main/tools.html](https://github.com/Amazingca/BSKY-Wrapper/blob/main/tools.html)
