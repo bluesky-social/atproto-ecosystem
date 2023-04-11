@@ -39,6 +39,9 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - Skylight
   - site: [https://penpenpng.github.io/skylight](https://penpenpng.github.io/skylight)
   - repo: [https://github.com/penpenpng/skylight](https://github.com/penpenpng/skylight)
+- Skylight Bluesky Style
+  - site: [https://skylight.louis-c-novel.com/#/](https://skylight.louis-c-novel.com/#/)
+  - repo: [https://github.com/louiscnovel2/skylight-bluesky-style](https://github.com/louiscnovel2/skylight-bluesky-style)
 - Redsky
   - site: [https://redsky.pages.dev/](https://redsky.pages.dev/)
   - repo: [https://github.com/akanoren/redsky](https://github.com/akanoren/redsky)
