@@ -48,6 +48,9 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - The Blue
   - site: [https://the-blue.shino3.net](https://the-blue.shino3.net)
   - repo: [https://github.com/ShinoharaTa/AozoraWebClient](https://github.com/ShinoharaTa/AozoraWebClient)
+- Klearsky
+  - site: [https://klearsky.pages.dev/](https://klearsky.pages.dev/)
+  - repo: [https://github.com/mimonelu/klearsky](https://github.com/mimonelu/klearsky)
 
 
 ### Android Clients
