@@ -74,3 +74,4 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 ### Other Tools
 
 - [twitter-to-bsky](https://github.com/ianklatzco/twitter-to-bsky) Import a Twitter archive into Bluesky. (may spam timeline!)
+- [blueskyfirehose](https://github.com/CharlesDardaman/blueskyfirehose) (Golang) Tool to view a firehose of all posts coming from bsky.social
