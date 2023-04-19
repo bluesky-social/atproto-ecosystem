@@ -74,3 +74,6 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 ### Other Tools
 
 - [twitter-to-bsky](https://github.com/ianklatzco/twitter-to-bsky) Import a Twitter archive into Bluesky. (may spam timeline!)
+- Bluestream: RSS feed generator for Bluesky.
+  - site: [Bluestream](https://bluestream.deno.dev/)
+  - repo: https://github.com/kawarimidoll/bluestream
