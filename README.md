@@ -74,3 +74,6 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 ### Other Tools
 
 - [twitter-to-bsky](https://github.com/ianklatzco/twitter-to-bsky) Import a Twitter archive into Bluesky. (may spam timeline!)
+- [Bluesky Overhaul](https://github.com/xenohunter/bluesky-overhaul) Browser extension that improves UX on the web app
+  - [Chrome Web Store](https://chrome.google.com/webstore/detail/bluesky-overhaul/cllpkmbebfmadmkkpplnaaffnhjjpgbi)
+  - [Mozilla Add-ons](https://addons.mozilla.org/en-US/firefox/addon/bluesky-overhaul/)
