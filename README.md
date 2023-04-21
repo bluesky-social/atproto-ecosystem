@@ -90,3 +90,6 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - Bsky Tooling – Cache and follow tons of repos and users.
   - site: [blue.amazingca.dev/tools](https://blue.amazingca.dev/tools)
   - repo: [https://github.com/Amazingca/BSKY-Wrapper/blob/main/tools.html](https://github.com/Amazingca/BSKY-Wrapper/blob/main/tools.html)
+- Bluestream: RSS feed generator for Bluesky.
+  - site: [Bluestream](https://bluestream.deno.dev/)
+  - repo: https://github.com/kawarimidoll/bluestream
