@@ -55,6 +55,9 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - Seiun
   - app: [Google Play Store](https://play.google.com/store/apps/details?id=io.github.akiomik.seiun)
   - repo: [https://github.com/akiomik/seiun](https://github.com/akiomik/seiun)
+- Ozone
+  - app: 🚧 TBD
+  - repo: [https://github.com/christiandeange/ozone](https://github.com/christiandeange/ozone)
 
 ### iOS Clients
 
@@ -75,6 +78,8 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 ### Other Tools
 
 - [twitter-to-bsky](https://github.com/ianklatzco/twitter-to-bsky) Import a Twitter archive into Bluesky. (may spam timeline!)
+- [bluesky-post](https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky_post) A tool to post from GitHub Actions to Bluesky Social on your behalf.
+  - site: [GitHub Marketplace](https://github.com/marketplace/actions/send-bluesky-post)
 - Bsky Tooling – Cache and follow tons of repos and users.
   - site: [blue.amazingca.dev/tools](https://blue.amazingca.dev/tools)
   - repo: [https://github.com/Amazingca/BSKY-Wrapper/blob/main/tools.html](https://github.com/Amazingca/BSKY-Wrapper/blob/main/tools.html)
