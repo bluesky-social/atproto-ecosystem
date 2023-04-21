@@ -94,3 +94,6 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
   - site: [Bluestream](https://bluestream.deno.dev/)
   - repo: https://github.com/kawarimidoll/bluestream
 - [blueskyfirehose](https://github.com/CharlesDardaman/blueskyfirehose) (Golang) Tool to view a firehose of all posts coming from bsky.social
+- [Bluesky Overhaul](https://github.com/xenohunter/bluesky-overhaul) Browser extension that improves UX on the web app
+  - [Chrome Web Store](https://chrome.google.com/webstore/detail/bluesky-overhaul/cllpkmbebfmadmkkpplnaaffnhjjpgbi)
+  - [Mozilla Add-ons](https://addons.mozilla.org/en-US/firefox/addon/bluesky-overhaul/)
