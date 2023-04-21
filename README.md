@@ -93,3 +93,4 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - Bluestream: RSS feed generator for Bluesky.
   - site: [Bluestream](https://bluestream.deno.dev/)
   - repo: https://github.com/kawarimidoll/bluestream
+- [blueskyfirehose](https://github.com/CharlesDardaman/blueskyfirehose) (Golang) Tool to view a firehose of all posts coming from bsky.social
