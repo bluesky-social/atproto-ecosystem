@@ -97,3 +97,5 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - [Bluesky Overhaul](https://github.com/xenohunter/bluesky-overhaul) Browser extension that improves UX on the web app
   - [Chrome Web Store](https://chrome.google.com/webstore/detail/bluesky-overhaul/cllpkmbebfmadmkkpplnaaffnhjjpgbi)
   - [Mozilla Add-ons](https://addons.mozilla.org/en-US/firefox/addon/bluesky-overhaul/)
+- [granary](https://granary.io/) (Python, REST API) converts `app.bsky` objects to/from ActivityStreams, RSS, Atom, HTML, and more
+- [Bridgy Fed](https://fed.brid.gy/) (Python) includes implementations of the [AT Protocol Merkle search tree](https://github.com/snarfed/bridgy-fed/blob/main/atproto_mst.py) and [`com.atproto.sync`](https://github.com/snarfed/bridgy-fed/blob/main/atproto.py)
