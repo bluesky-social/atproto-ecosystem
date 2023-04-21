@@ -20,7 +20,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - [lexrpc](https://github.com/snarfed/lexrpc) (Python): not stable
 - [atprototools](https://github.com/ianklatzco/atprototools) (Python): new, not stable
 - [atproto](https://github.com/myConsciousness/atproto.dart/tree/main/packages/atproto) and [bluesky](https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky) (Dart)
-
+- [bskyrb](https://github.com/ShreyanJain9/bskyrb) (Ruby): new, not stable
 ## Clients
 
 ### Web Clients
