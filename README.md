@@ -20,12 +20,13 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - [lexrpc](https://github.com/snarfed/lexrpc) (Python): not stable
 - [atprototools](https://github.com/ianklatzco/atprototools) (Python): new, not stable
 - [atproto](https://github.com/myConsciousness/atproto.dart/tree/main/packages/atproto) and [bluesky](https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky) (Dart)
+- [blue-pyinthe-sky](https://github.com/robcerda/blue-pyinthe-sky) (Python) new, not stable. Packaging it up into an installable module is a work in progress. 
 
 ## Clients
 
 ### Web Clients
 
-- Bluesky:
+- Bluesky (developed by Bluesky PBLLC):
   - site: [https://staging.bsky.app/](https://staging.bsky.app/)
 - Flat:
   - app: [flat-bs.vercel.app](https://flat-bs.vercel.app)
@@ -33,12 +34,15 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - Bsky
   - app: [bsky.syui.cf](https://bsky.syui.cf)
   - repo: [github.com/syui/bsky-web](https://github.com/syui/bsky-web)
-- Bsky Wrapper (view-only)
+- Bsky Wrapper
   - site: [blue.amazingca.dev](https://blue.amazingca.dev)
   - repo: [https://github.com/Amazingca/BSKY-Wrapper](https://github.com/Amazingca/BSKY-Wrapper)
 - Skylight
   - site: [https://penpenpng.github.io/skylight](https://penpenpng.github.io/skylight)
   - repo: [https://github.com/penpenpng/skylight](https://github.com/penpenpng/skylight)
+- Skylight Bluesky Style
+  - site: [https://skylight.louis-c-novel.com/#/](https://skylight.louis-c-novel.com/#/)
+  - repo: [https://github.com/louiscnovel2/skylight-bluesky-style](https://github.com/louiscnovel2/skylight-bluesky-style)
 - Redsky
   - site: [https://redsky.pages.dev/](https://redsky.pages.dev/)
   - repo: [https://github.com/akanoren/redsky](https://github.com/akanoren/redsky)
@@ -48,6 +52,9 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - The Blue
   - site: [https://the-blue.shino3.net](https://the-blue.shino3.net)
   - repo: [https://github.com/ShinoharaTa/AozoraWebClient](https://github.com/ShinoharaTa/AozoraWebClient)
+- Klearsky
+  - site: [https://klearsky.pages.dev/](https://klearsky.pages.dev/)
+  - repo: [https://github.com/mimonelu/klearsky](https://github.com/mimonelu/klearsky)
 
 
 ### Android Clients
@@ -55,11 +62,15 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - Seiun
   - app: [Google Play Store](https://play.google.com/store/apps/details?id=io.github.akiomik.seiun)
   - repo: [https://github.com/akiomik/seiun](https://github.com/akiomik/seiun)
+- Ozone
+  - app: 🚧 TBD
+  - repo: [https://github.com/christiandeange/ozone](https://github.com/christiandeange/ozone)
 
 ### iOS Clients
 
 - Bluesky (developed by Bluesky PBLLC)
-  - site: [bsky.app](bsky.app)
+  - app: [App Store](https://apps.apple.com/us/app/bluesky-social/id6444370199)
+  - site: [bsky.app](https://bsky.app)
 
 ### CLI Clients
 
@@ -74,6 +85,11 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 ### Other Tools
 
 - [twitter-to-bsky](https://github.com/ianklatzco/twitter-to-bsky) Import a Twitter archive into Bluesky. (may spam timeline!)
+- [bluesky-post](https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky_post) A tool to post from GitHub Actions to Bluesky Social on your behalf.
+  - site: [GitHub Marketplace](https://github.com/marketplace/actions/send-bluesky-post)
+- Bsky Tooling – Cache and follow tons of repos and users.
+  - site: [blue.amazingca.dev/tools](https://blue.amazingca.dev/tools)
+  - repo: [https://github.com/Amazingca/BSKY-Wrapper/blob/main/tools.html](https://github.com/Amazingca/BSKY-Wrapper/blob/main/tools.html)
 - Bluestream: RSS feed generator for Bluesky.
   - site: [Bluestream](https://bluestream.deno.dev/)
   - repo: https://github.com/kawarimidoll/bluestream
