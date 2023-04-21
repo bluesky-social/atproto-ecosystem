@@ -56,7 +56,9 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - Klearsky
   - site: [https://klearsky.pages.dev/](https://klearsky.pages.dev/)
   - repo: [https://github.com/mimonelu/klearsky](https://github.com/mimonelu/klearsky)
-
+- Skyline
+  - site: [https://skyline.gay/](https://skyline.gay/)
+  - repo: [https://github.com/louislva/skyline](https://github.com/louislva/skyline)
 
 ### Android Clients
 
