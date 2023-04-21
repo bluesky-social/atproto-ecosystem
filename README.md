@@ -60,6 +60,9 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 
 ### Android Clients
 
+- Bluesky (developed by Bluesky PBLLC)
+  - app: [Play Store](https://play.google.com/store/apps/details?id=xyz.blueskyweb.app&hl=en_US)
+  - site: [bsky.app](https://bsky.app)
 - Seiun
   - app: [Google Play Store](https://play.google.com/store/apps/details?id=io.github.akiomik.seiun)
   - repo: [https://github.com/akiomik/seiun](https://github.com/akiomik/seiun)
