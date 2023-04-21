@@ -25,7 +25,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 
 ### Web Clients
 
-- Bluesky:
+- Bluesky (developed by Bluesky PBLLC):
   - site: [https://staging.bsky.app/](https://staging.bsky.app/)
 - Flat:
   - app: [flat-bs.vercel.app](https://flat-bs.vercel.app)
@@ -33,7 +33,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - Bsky
   - app: [bsky.syui.cf](https://bsky.syui.cf)
   - repo: [github.com/syui/bsky-web](https://github.com/syui/bsky-web)
-- Bsky Wrapper (view-only)
+- Bsky Wrapper
   - site: [blue.amazingca.dev](https://blue.amazingca.dev)
   - repo: [https://github.com/Amazingca/BSKY-Wrapper](https://github.com/Amazingca/BSKY-Wrapper)
 - Skylight
@@ -62,7 +62,8 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 ### iOS Clients
 
 - Bluesky (developed by Bluesky PBLLC)
-  - site: [bsky.app](bsky.app)
+  - app: [App Store](https://apps.apple.com/us/app/bluesky-social/id6444370199)
+  - site: [bsky.app](https://bsky.app)
 
 ### CLI Clients
 
@@ -79,3 +80,6 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - [twitter-to-bsky](https://github.com/ianklatzco/twitter-to-bsky) Import a Twitter archive into Bluesky. (may spam timeline!)
 - [bluesky-post](https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky_post) A tool to post from GitHub Actions to Bluesky Social on your behalf.
   - site: [GitHub Marketplace](https://github.com/marketplace/actions/send-bluesky-post)
+- Bsky Tooling – Cache and follow tons of repos and users.
+  - site: [blue.amazingca.dev/tools](https://blue.amazingca.dev/tools)
+  - repo: [https://github.com/Amazingca/BSKY-Wrapper/blob/main/tools.html](https://github.com/Amazingca/BSKY-Wrapper/blob/main/tools.html)
