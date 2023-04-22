@@ -20,3 +20,10 @@ re-fetch access/refresh tokens using an app password.
 App passwords are of the form `xxxx-xxxx-xxxx-xxxx`. For your users' safety, you
 could run a quick check to ensure that they are logging in with an app password
 and not their account password.
+
+Some images of the flow:
+![image](https://user-images.githubusercontent.com/1243164/233754422-55d600b1-b59c-41ee-a44b-898bc06f65f1.png)
+![image](https://user-images.githubusercontent.com/1243164/233754430-9a5efe91-a0fd-448a-9263-0e29b6ccc5a9.png)
+![image](https://user-images.githubusercontent.com/1243164/233754396-e708bb24-bdd5-46aa-b798-e67b52593275.png)
+![image](https://user-images.githubusercontent.com/1243164/233754403-98e8ecce-d8a1-4e98-9b5f-7e442286deb6.png)
+![image](https://user-images.githubusercontent.com/1243164/233754409-a234442c-4a93-40f0-af3e-836eaa2777af.png)
