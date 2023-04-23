@@ -22,6 +22,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - [atproto](https://github.com/myConsciousness/atproto.dart/tree/main/packages/atproto) and [bluesky](https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky) (Dart)
 - [bskyrb](https://github.com/ShreyanJain9/bskyrb) (Ruby): new, not stable
 - [blue-pyinthe-sky](https://github.com/robcerda/blue-pyinthe-sky) (Python) new, not stable. Packaging it up into an installable module is a work in progress. 
+- [nanoatp](https://github.com/susumuota/nanoatp) (Python): new, not stable
 
 ## Clients
 
