@@ -78,6 +78,10 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
   - app: [App Store](https://apps.apple.com/us/app/bluesky-social/id6444370199)
   - site: [bsky.app](https://bsky.app)
 
+### MacOS Clients
+
+- [swiftsky](https://github.com/rmcan/swiftsky) (Swift)
+
 ### CLI Clients
 
 - [adenosine-cli](https://gitlab.com/bnewbold/adenosine/-/blob/main/adenosine-cli/README.md) (Rust)
