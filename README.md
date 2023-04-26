@@ -88,6 +88,9 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
   - repo: [bluesky_cli](https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky_cli)
   - site: [pub.dev](https://pub.dev/packages/bluesky_cli)
 
+### macOS Clients
+- [Bluesky for Raycast](https://www.raycast.com/dharamkapila/bluesky): A Bluesky client for [Raycast](https://www.raycast.com).
+
 ### Other Tools
 
 - [twitter-to-bsky](https://github.com/ianklatzco/twitter-to-bsky) Import a Twitter archive into Bluesky. (may spam timeline!)
