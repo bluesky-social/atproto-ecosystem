@@ -1,5 +1,7 @@
 # AT Protocol Ecosystem
 
+[![](https://dcbadge.vercel.app/api/server/3srmDsHSZJ)](https://discord.gg/3srmDsHSZJ)
+
 List of projects and implementations in the AT protocol ecosystem. Many are WIP, as the protocol is still maturing.
 
 ## Disclaimer
