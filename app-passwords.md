@@ -14,7 +14,7 @@ encourage you to prompt users to use an app password on login and **avoid ever
 entering their password**. For account creation, we encourage **redirecting a user
 to the bluesky client** (https://staging.bsky.app)
 
-We also strong encourage you to **delete all existing refresh tokens** and 
+We also strongly encourage you to **delete all existing refresh tokens** and 
 re-fetch access/refresh tokens using an app password.
 
 App passwords are of the form `xxxx-xxxx-xxxx-xxxx`. For your users' safety, you
