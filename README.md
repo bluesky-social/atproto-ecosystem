@@ -59,6 +59,8 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - Skyline
   - site: [https://skyline.gay/](https://skyline.gay/)
   - repo: [https://github.com/louislva/skyline](https://github.com/louislva/skyline)
+- Sunrise
+  - site: [https://su.nrise.xyz/](https://su.nrise.xyz)
 
 ### Android Clients
 
