@@ -77,10 +77,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - Bluesky (developed by Bluesky PBLLC)
   - app: [App Store](https://apps.apple.com/us/app/bluesky-social/id6444370199)
   - site: [bsky.app](https://bsky.app)
-- Graysky 
-  - app: [TestFlight](https://testflight.apple.com/join/8Q1M4gwt)
-  - repo: [https://github.com/mozzius/graysky](https://github.com/mozzius/graysky) 
-
+  
 ### CLI Clients
 
 - [adenosine-cli](https://gitlab.com/bnewbold/adenosine/-/blob/main/adenosine-cli/README.md) (Rust)
@@ -109,3 +106,4 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - [granary](https://granary.io/) (Python, REST API) converts `app.bsky` objects to/from ActivityStreams, RSS, Atom, HTML, and more
 - [Bridgy Fed](https://fed.brid.gy/) (Python) includes implementations of the [AT Protocol Merkle search tree](https://github.com/snarfed/bridgy-fed/blob/main/atproto_mst.py) and [`com.atproto.sync`](https://github.com/snarfed/bridgy-fed/blob/main/atproto.py)
 - [bsky-link-preview](https://github.com/capjamesg/bsky-link-preview): Generate an embeddable link preview for a Bluesky post.
+- [w3igg-crossposter](https://github.com/molly/w3igg-crossposter): Tool used currently for [web3isgoinggreat](https://web3isgoinggreat.com/) to x-post to Twitter, Mastodon, and Bluesky simultaneously 
