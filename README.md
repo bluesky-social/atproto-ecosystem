@@ -87,6 +87,9 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - bluesky_cli (Dart)
   - repo: [bluesky_cli](https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky_cli)
   - site: [pub.dev](https://pub.dev/packages/bluesky_cli)
+- bluesky_ex (Elixir): new, not stable
+  - repo: [bluesky_ex](https://github.com/cribbles/bluesky_ex) (Elixir): new, not stable
+  - site: [hexdocs](https://hexdocs.pm/bluesky_ex/readme.html)
 
 ### Other Tools
 
