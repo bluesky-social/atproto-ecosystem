@@ -32,7 +32,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - Flat:
   - app: [flat-bs.vercel.app](https://flat-bs.vercel.app)
   - repo: [github.com/sabigara/flat](https://github.com/sabigara/flat)
-- Kite
+- Kite 🪁
   - app: [Kite](https://kite.black)
   - repo: [github.com/callmearta/kite](https://github.com/callmearta/kite)
 - Bsky
