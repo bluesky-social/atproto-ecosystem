@@ -61,7 +61,6 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
   - repo: [https://github.com/louislva/skyline](https://github.com/louislva/skyline)
 - Firesky: Real-time Bluesky firehose
   - site: [https://firesky.tv](https://firesky.tv)
-  - repo: [https://firesky.tv](https://firesky.tv)
 
 ### Android Clients
 
