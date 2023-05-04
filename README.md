@@ -83,6 +83,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - [adenosine-cli](https://gitlab.com/bnewbold/adenosine/-/blob/main/adenosine-cli/README.md) (Rust)
 - [gosky](https://github.com/bluesky-social/indigo/tree/main/cmd/gosky) (Golang)(developed by Bluesky PBLLC)
 - [bsky](https://github.com/mattn/bsky) (Golang)
+- [gomoderate](https://github.com/thepudds/gomoderate) (Golang)
 - [atr](https://github.com/syui/atr) (Rust)
 - bluesky_cli (Dart)
   - repo: [bluesky_cli](https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky_cli)
