@@ -105,6 +105,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
   - [Mozilla Add-ons](https://addons.mozilla.org/en-US/firefox/addon/bluesky-overhaul/)
 - [SkyLink](https://github.com/jessejanderson/skylink) A simple web extension that detects if the current website is connected to a Bluesky user.
   - [Chrome Web Store](https://chrome.google.com/webstore/detail/skylink-bluesky-did-detec/aflpfginfpjhanhkmdpohpggpolfopmb)
+  - [Mozilla Add-ons](https://addons.mozilla.org/en-US/firefox/addon/skylink-bluesky-did-detector/)
 - [granary](https://granary.io/) (Python, REST API) converts `app.bsky` objects to/from ActivityStreams, RSS, Atom, HTML, and more
 - [Bridgy Fed](https://fed.brid.gy/) (Python) includes implementations of the [AT Protocol Merkle search tree](https://github.com/snarfed/bridgy-fed/blob/main/atproto_mst.py) and [`com.atproto.sync`](https://github.com/snarfed/bridgy-fed/blob/main/atproto.py)
 - [bsky-link-preview](https://github.com/capjamesg/bsky-link-preview): Generate an embeddable link preview for a Bluesky post.
