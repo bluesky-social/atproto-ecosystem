@@ -59,6 +59,8 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - Skyline
   - site: [https://skyline.gay/](https://skyline.gay/)
   - repo: [https://github.com/louislva/skyline](https://github.com/louislva/skyline)
+- Sunrise
+  - site: [https://sunrise.li/](https://sunrise.li)
 - Connectsky (Web & extension based ATProto Client)
   - repo: https://github.com/Nester-xyz/Connectsky
 
