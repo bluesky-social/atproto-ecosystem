@@ -23,6 +23,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - [bskyrb](https://github.com/ShreyanJain9/bskyrb) (Ruby): new, not stable
 - [blue-pyinthe-sky](https://github.com/robcerda/blue-pyinthe-sky) (Python) new, not stable. Packaging it up into an installable module is a work in progress. 
 - [nanoatp](https://github.com/susumuota/nanoatp) (Python): new, not stable
+- [psychonaut](https://github.com/jbn/psychonaut) (Python): async with Pydantic models for lexicon enforcement. WIP/unstable
 
 ## Clients
 
@@ -60,6 +61,10 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - Skyline
   - site: [https://skyline.gay/](https://skyline.gay/)
   - repo: [https://github.com/louislva/skyline](https://github.com/louislva/skyline)
+- Sunrise
+  - site: [https://sunrise.li/](https://sunrise.li)
+- Connectsky (Web & extension based ATProto Client)
+  - repo: https://github.com/Nester-xyz/Connectsky
 
 ### Android Clients
 
@@ -88,6 +93,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - bluesky_cli (Dart)
   - repo: [bluesky_cli](https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky_cli)
   - site: [pub.dev](https://pub.dev/packages/bluesky_cli)
+- [gokyuzu](https://github.com/kiliczsh/gokyuzu) (Python)
 
 ### Other Tools
 
