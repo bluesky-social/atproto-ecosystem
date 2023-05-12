@@ -17,12 +17,15 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - [atproto](https://github.com/bluesky-social/atproto) (Typescript): this is the leading protocol implementation, developed by Bluesky PBLLC
 - [indigo](https://github.com/bluesky-social/indigo) (Go): not stable
 - [adenosine](https://gitlab.com/bnewbold/adenosine) (Rust): not stable
+- [atrium](https://github.com/sugyan/atrium) (Rust): new, not stable
 - [lexrpc](https://github.com/snarfed/lexrpc) (Python): not stable
 - [atprototools](https://github.com/ianklatzco/atprototools) (Python): new, not stable
 - [atproto](https://github.com/myConsciousness/atproto.dart/tree/main/packages/atproto) and [bluesky](https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky) (Dart)
 - [bskyrb](https://github.com/ShreyanJain9/bskyrb) (Ruby): new, not stable
 - [blue-pyinthe-sky](https://github.com/robcerda/blue-pyinthe-sky) (Python) new, not stable. Packaging it up into an installable module is a work in progress. 
 - [BlueSky.Net](https://github.com/dariogriffo/bluesky-net) (.NET) new, WIP. Available to download in [Nuget](https://www.nuget.org/packages/Bluesky.Net/)
+- [nanoatp](https://github.com/susumuota/nanoatp) (Python): new, not stable
+- [psychonaut](https://github.com/jbn/psychonaut) (Python): async with Pydantic models for lexicon enforcement. WIP/unstable
 
 ## Clients
 
@@ -60,6 +63,10 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - Skyline
   - site: [https://skyline.gay/](https://skyline.gay/)
   - repo: [https://github.com/louislva/skyline](https://github.com/louislva/skyline)
+- Sunrise
+  - site: [https://sunrise.li/](https://sunrise.li)
+- Connectsky (Web & extension based ATProto Client)
+  - repo: https://github.com/Nester-xyz/Connectsky
 
 ### Android Clients
 
@@ -78,6 +85,13 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - Bluesky (developed by Bluesky PBLLC)
   - app: [App Store](https://apps.apple.com/us/app/bluesky-social/id6444370199)
   - site: [bsky.app](https://bsky.app)
+- Graysky
+  - app: [App Store](https://testflight.apple.com/join/8Q1M4gwt)
+  - repo: [bsky.app](https://github.com/mozzius/graysky)
+
+### MacOS Clients
+
+- [swiftsky](https://github.com/rmcan/swiftsky) (Swift)
 
 ### CLI Clients
 
@@ -88,6 +102,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - bluesky_cli (Dart)
   - repo: [bluesky_cli](https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky_cli)
   - site: [pub.dev](https://pub.dev/packages/bluesky_cli)
+- [gokyuzu](https://github.com/kiliczsh/gokyuzu) (Python)
 
 ### Other Tools
 
