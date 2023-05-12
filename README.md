@@ -1,6 +1,8 @@
-# AT Protocol Ecosystem
+# AT Protocol Ecosystem [Deprecated]
 
-List of projects and implementations in the AT protocol ecosystem. Many are WIP, as the protocol is still maturing.
+⚠️ This repository is no longer activily maintained. Visit our [Community Projects page](https://atproto.com/community/projects) to view a list of projects and implementations in the AT Protocol ecosystem.
+
+You can open pull requests to submit/remove your project from the Community Projects page [here](https://github.com/bluesky-social/atproto-website).
 
 ## Disclaimer
 
