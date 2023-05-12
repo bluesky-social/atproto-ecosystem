@@ -95,6 +95,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 ### MacOS Clients
 
 - [swiftsky](https://github.com/rmcan/swiftsky) (Swift)
+- [Bluesky for Raycast](https://www.raycast.com/dharamkapila/bluesky): A Bluesky client for [Raycast](https://www.raycast.com).
 
 ### CLI Clients
 
