@@ -106,6 +106,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - bluesky_cli (Dart)
   - repo: [bluesky_cli](https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky_cli)
   - site: [pub.dev](https://pub.dev/packages/bluesky_cli)
+- [blue-sky-cli](https://github.com/wesbos/blue-sky-cli) (Typescript)
 - [gokyuzu](https://github.com/kiliczsh/gokyuzu) (Python)
 
 ### Other Tools
