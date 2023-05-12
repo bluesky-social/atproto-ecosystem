@@ -29,6 +29,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - [BlueSky.Net](https://github.com/dariogriffo/bluesky-net) (.NET) new, WIP. Available to download in [Nuget](https://www.nuget.org/packages/Bluesky.Net/)
 - [nanoatp](https://github.com/susumuota/nanoatp) (Python): new, not stable
 - [psychonaut](https://github.com/jbn/psychonaut) (Python): async with Pydantic models for lexicon enforcement. WIP/unstable
+- [atproto](https://github.com/MarshalX/atproto) (Python): new, not stable
 
 ## Clients
 
@@ -117,6 +118,7 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
   - site: [hexdocs](https://hexdocs.pm/bluesky_ex/readme.html)
 - [blue-sky-cli](https://github.com/wesbos/blue-sky-cli) (Typescript)
 - [gokyuzu](https://github.com/kiliczsh/gokyuzu) (Python)
+- [pBsky](https://github.com/davidcarryer/pBsky) (Python-based BlueSky Client for the Linux Command Line)
 
 ### Other Tools
 
